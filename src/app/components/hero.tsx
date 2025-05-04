@@ -90,6 +90,7 @@ const Hero = () => {
         color: {
           value: "#ffffff",
         },
+        
         move: {
           enable: true,
           outModes: {
@@ -106,11 +107,11 @@ const Hero = () => {
           },
         },
         number: {
-          value: 150,
+          value: 300,
           density: {
             enable: true,
             width: 1920,
-            height: 980,
+            height: 1180,
           },
         },
         opacity: {
